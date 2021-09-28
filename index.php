@@ -19,7 +19,7 @@
             Lắp mảnh ghép chính xác vào đúng vị trí để sở hữu Ggunbu thuật nào. 
         </p>
        
-        <!-- include("Ggunbu.html") -->
+        <!-- include("/ggunbu.html") -->
         </center>
    
     </body>
